@@ -1,0 +1,12 @@
+Metrics/BlockLength:
+  Exclude:
+    - spec/integration/*
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented
+
+Style/Documentation:
+  Enabled: false
+
+Naming/UncommunicativeMethodParamName:
+  AllowedNames: [db]
